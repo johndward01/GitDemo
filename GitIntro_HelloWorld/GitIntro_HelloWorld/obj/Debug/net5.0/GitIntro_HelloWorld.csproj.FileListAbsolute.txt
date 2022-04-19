@@ -1,0 +1,32 @@
+C:\Users\johnd\Desktop\Projects\GitIntro_HelloWorld\GitIntro_HelloWorld\bin\Debug\net5.0\GitIntro_HelloWorld.exe
+C:\Users\johnd\Desktop\Projects\GitIntro_HelloWorld\GitIntro_HelloWorld\bin\Debug\net5.0\GitIntro_HelloWorld.deps.json
+C:\Users\johnd\Desktop\Projects\GitIntro_HelloWorld\GitIntro_HelloWorld\bin\Debug\net5.0\GitIntro_HelloWorld.runtimeconfig.json
+C:\Users\johnd\Desktop\Projects\GitIntro_HelloWorld\GitIntro_HelloWorld\bin\Debug\net5.0\GitIntro_HelloWorld.runtimeconfig.dev.json
+C:\Users\johnd\Desktop\Projects\GitIntro_HelloWorld\GitIntro_HelloWorld\bin\Debug\net5.0\GitIntro_HelloWorld.dll
+C:\Users\johnd\Desktop\Projects\GitIntro_HelloWorld\GitIntro_HelloWorld\bin\Debug\net5.0\GitIntro_HelloWorld.pdb
+C:\Users\johnd\Desktop\Projects\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\GitIntro_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\Projects\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\GitIntro_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\Desktop\Projects\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\GitIntro_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\Projects\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\GitIntro_HelloWorld.AssemblyInfo.cs
+C:\Users\johnd\Desktop\Projects\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\GitIntro_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\Projects\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\GitIntro_HelloWorld.dll
+C:\Users\johnd\Desktop\Projects\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\refint\GitIntro_HelloWorld.dll
+C:\Users\johnd\Desktop\Projects\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\GitIntro_HelloWorld.pdb
+C:\Users\johnd\Desktop\Projects\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\GitIntro_HelloWorld.genruntimeconfig.cache
+C:\Users\johnd\Desktop\Projects\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\ref\GitIntro_HelloWorld.dll
+C:\Users\johnd\Desktop\Git Demo\GitIntro_HelloWorld\GitIntro_HelloWorld\bin\Debug\net5.0\GitIntro_HelloWorld.exe
+C:\Users\johnd\Desktop\Git Demo\GitIntro_HelloWorld\GitIntro_HelloWorld\bin\Debug\net5.0\GitIntro_HelloWorld.deps.json
+C:\Users\johnd\Desktop\Git Demo\GitIntro_HelloWorld\GitIntro_HelloWorld\bin\Debug\net5.0\GitIntro_HelloWorld.runtimeconfig.json
+C:\Users\johnd\Desktop\Git Demo\GitIntro_HelloWorld\GitIntro_HelloWorld\bin\Debug\net5.0\GitIntro_HelloWorld.runtimeconfig.dev.json
+C:\Users\johnd\Desktop\Git Demo\GitIntro_HelloWorld\GitIntro_HelloWorld\bin\Debug\net5.0\GitIntro_HelloWorld.dll
+C:\Users\johnd\Desktop\Git Demo\GitIntro_HelloWorld\GitIntro_HelloWorld\bin\Debug\net5.0\ref\GitIntro_HelloWorld.dll
+C:\Users\johnd\Desktop\Git Demo\GitIntro_HelloWorld\GitIntro_HelloWorld\bin\Debug\net5.0\GitIntro_HelloWorld.pdb
+C:\Users\johnd\Desktop\Git Demo\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\GitIntro_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\Git Demo\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\GitIntro_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\Desktop\Git Demo\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\GitIntro_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\Git Demo\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\GitIntro_HelloWorld.AssemblyInfo.cs
+C:\Users\johnd\Desktop\Git Demo\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\GitIntro_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\Git Demo\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\GitIntro_HelloWorld.dll
+C:\Users\johnd\Desktop\Git Demo\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\ref\GitIntro_HelloWorld.dll
+C:\Users\johnd\Desktop\Git Demo\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\GitIntro_HelloWorld.pdb
+C:\Users\johnd\Desktop\Git Demo\GitIntro_HelloWorld\GitIntro_HelloWorld\obj\Debug\net5.0\GitIntro_HelloWorld.genruntimeconfig.cache
